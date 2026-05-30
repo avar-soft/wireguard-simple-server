@@ -171,7 +171,7 @@ Plain-режим (открытый UDP/53) удалён. Три варианта
 ### Установка за 1 команду
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/avar-soft/wg-simple-server/main/wg-simple-server.sh \
+curl -fsSL https://raw.githubusercontent.com/avar-soft/wireguard-simple-server/main/wg-simple-server.sh \
   -o wg-simple-server.sh \
   && chmod +x wg-simple-server.sh \
   && sudo bash wg-simple-server.sh
